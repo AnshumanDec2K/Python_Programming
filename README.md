@@ -7,3 +7,5 @@ demo 1: Basic conditonal, iterational and jump statements
 demo 2: Basic arithmetic and reassignment operations
 
 demo 3: String and it's operations
+
+demo 4: String formatting
