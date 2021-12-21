@@ -2,10 +2,12 @@
 Basic Python programs
 Details will be in the demo ipynb files
 
-demo 1: Basic conditonal, iterational and jump statements
+demo1: Basic conditonal, iterational and jump statements
 
-demo 2: Basic arithmetic and reassignment operations
+demo2: Basic arithmetic and reassignment operations
 
-demo 3: String and it's operations
+demo3: String and it's operations
 
-demo 4: String formatting
+demo4: String formatting
+
+demo5: Basic Tuple, List and String operations
