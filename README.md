@@ -11,3 +11,5 @@ demo3: String and it's operations
 demo4: String formatting
 
 demo5: Basic Tuple, List and String operations
+
+demo6: More operations on Tuple, List and String and some basic dictionary operations
