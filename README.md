@@ -13,3 +13,7 @@ demo4: String formatting
 demo5: Basic Tuple, List and String operations
 
 demo6: More operations on Tuple, List and String and some basic dictionary operations
+
+demo7: Functions in python
+
+demo8: File handling in python
