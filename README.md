@@ -19,3 +19,7 @@ demo7: Functions in python
 demo8: File handling in python
 
 demo9: This Notebook has the demo for exception handling in python
+
+demo10:
+
+demo11: Demo for loc and iloc for slicing 
