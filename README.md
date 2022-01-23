@@ -18,8 +18,8 @@ demo7: Functions in python
 
 demo8: File handling in python
 
-demo9: This Notebook has the demo for exception handling in python
+demo9: Exception handling in python
 
-demo10:
+demo10: Lambda function,operators and datastructures in python
 
-demo11: Demo for loc and iloc for slicing 
+demo11: LOC and ILOC for slicing 
